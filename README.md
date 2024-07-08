@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ pursuing master's in Artificial intelligence<br>📚 I'm currently learning machine learning<br>🎯 Goals: Improvising my skills<br>🎲 Fun fact: I can do everything that you say i can't do.</p>
+<p align="left">👋 Hi there! I'm Jaya prakash yadav,Gorla, a passionate Artificial Intelligence graduate student at DePaul University.<br><br>🔍 My interests lie in the realms of machine learning, deep learning, natural language processing, and computer vision. I'm fascinated by how AI can transform industries and improve our daily lives.<br><br>💡 I'm currently learning Machine learning.Previously i had work experience in cognizant for 2 years on SAP.<br><br>📚 Apart from my academic pursuits, I enjoy contributing to open-source projects and collaborating with fellow developers and researchers.<br><br>🔧 My tech stack includes Python, Numpy, and more. I'm always eager to learn new technologies and frameworks.<br><br>🚀 I'm looking to connect with like-minded individuals and explore opportunities in AI research and development.<br><br>Let's build the future with AI!</p>
 
 ###
 
