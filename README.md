@@ -10,10 +10,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 <p align="left">✨ pursuing master's in Artificial intelligence<br>📚 I'm currently learning machine learning<br>🎯 Goals: Improvising my skills<br>🎲 Fun fact: I can do everything that you say i can't do.</p>
 
 ###
@@ -21,6 +17,10 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jpmartin22.jpmartin22&left_color=black&right_color=blueviolet&left_text=profile%20views"  />
 </div>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
