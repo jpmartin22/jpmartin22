@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hey, I'm Jaya Prakash Yadav Gorla</h1>
-<h3 align="center">AI Researcher • Data Scientist • Robotics Enthusiast</h3>
+<h1 align="center">Hello, I am Jaya Prakash Yadav Gorla</h1>
+<h3 align="center">AI/ML Engineer •AI Researcher • Data Scientist • Robotics Enthusiast</h3>
 
 <!-- Typing animation -->
 <p align="center">
