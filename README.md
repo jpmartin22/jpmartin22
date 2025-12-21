@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=720&lines=Building+AI+for+Real-World+Impact;Machine+Learning+%7C+Deep+Learning+%7C+Recommender+Systems;RAG+%7C+NLP+%7C+Multimodal;From+Ideas+to+AI+Startups" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=720&lines=Building+AI+for+Real-World+Impact;Machine+Learning+%7C+Deep+Learning+%7C+Recommender+Systems;RAG+%7C+NLP+%7C+Multimodal+%7C+GEN+AI;From+Ideas+to+AI+Startups" alt="Typing SVG" />
 </p>
 
 ---
