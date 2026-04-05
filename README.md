@@ -1,69 +1,158 @@
-<!-- Profile Header -->
-<h1 align="center">Hello, I am Jaya Prakash Yadav Gorla</h1>
-<h3 align="center">AI/ML Engineer •AI Researcher • Data Scientist • Robotics Enthusiast</h3>
+# Hi there, I'm Jaya Prakash Yadav Gorla 👋
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=720&lines=Building+AI+for+Real-World+Impact;Machine+Learning+%7C+Deep+Learning+%7C+Recommender+Systems;RAG+%7C+NLP+%7C+Multimodal+%7C+GEN+AI;From+Ideas+to+AI+Startups" alt="Typing SVG" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaya-prakash-yadav-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpmartin22)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaprakashyadav@gmail.com)
 
----
+## 🚀 About Me
 
-## About Me
-- Master’s in Artificial Intelligence @ DePaul University  
-- Focus areas: AI & Robotics, RAG systems, Recommender Systems  
-- Experience in Patent Analytics, NLP, and Multimodal systems  
-- Co-building AriesView (AI LegalTech) & CitiSafe (Crime Analytics)  
+I'm a **Machine Learning Engineer**, **NLP/LLM Specialist**, and **Robotics/RL Engineer** with 3+ years of experience building production AI systems, autonomous robots, and intelligent data pipelines. Currently pursuing my **M.S. in Artificial Intelligence** at DePaul University (GPA: 3.47) and working as a Data Scientist.
+
+🏆 **Winner**: DePaul Propel Hackathon 2025 & NEIU Eagle Hack Fest 2025
 
 ---
 
-## Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+## 💼 What I Do
+
+### 🤖 Machine Learning & Data Science
+- Built predictive models achieving **R² of 0.763** through advanced feature engineering and hyperparameter tuning
+- Led analytics for **50,000+ biopharma patents** using composite entropy and network science metrics
+- Reduced analysis time by **85%** via automated ETL pipelines
+- Developed temporal & geospatial features improving model performance by **31%**
+
+### 🧠 NLP & LLM Systems
+- Deployed production **RAG pipelines** processing **1,000+ legal documents/week** with **40% accuracy gain**
+- Built multi-agent RAG system achieving **88% answer correctness**
+- Integrated vector search with metadata filtering: **85% accuracy (F1: 0.83)**
+- Applied NLP-based text mining to support **2+ funded grant proposals**
+
+### 🦾 Robotics & Reinforcement Learning
+- Built **Tiny Dreamer** world model for Highway-v0: **86.4% lane-keeping success**, **0.0% off-road time**
+- Hands-on experience with **UR3e**, **TurtleBot**, **ROS 2**, and **Raspberry Pi**
+- Implemented motion planning, Kalman filtering, and trajectory control
+- Trained across **700,000+ environment steps** with CAPS regularization
 
 ---
 
-## Featured Projects
-- AriesView – LegalTech RAG pipeline (FastAPI + Weaviate + LLMs)  
-- CitiSafe – Crime analysis & navigation (Next.js + Flask + XGBoost)  
-- Visual Recommender – Multimodal CLIP + Transformer recommendation system  
-- Patent Landscaping – Global pharma/biopharma patent analysis and visualization  
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ML/AI Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### NLP & LLM
+- **RAG Systems**: LangChain, ChromaDB, FAISS
+- **Models**: BERT, GPT, T5, LLaMA, Sentence Transformers
+- **Tools**: Prompt Engineering, Fine-tuning, Semantic Search
+
+### Robotics & RL
+- **Platforms**: UR3e, TurtleBot, ROS 2, Raspberry Pi
+- **RL**: Dreamer, World Models, Actor-Critic, DQN, RSSM
+- **Control**: Motion Planning, Kalman Filtering, PID, LQR, MPC
+
+### Data Engineering & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+- **Data**: DuckDB, PostgreSQL, Apache Spark, ETL Pipelines
+- **MLOps**: AWS SageMaker, CI/CD, Model Monitoring, REST APIs
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpmartin22&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=14400&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=jpmartin22&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmartin22&layout=compact&langs_count=8&cache_seconds=14400&theme=tokyonight" alt="Top Languages"/>
-</p>
+## 📊 Featured Projects
+
+### 🌐 [Agentic RAG System – Cleantech Q&A](https://github.com/jpmartin22)
+**LangChain · ChromaDB · Semantic Search**
+- Multi-agent system with **88% answer correctness** (22% improvement over baseline)
+- Indexed **20,000+ articles** via sentence embeddings and semantic chunking
+- Sub-second similarity search at scale
+
+### 🏠 [Airbnb Price Prediction](https://github.com/jpmartin22)
+**LightGBM · XGBoost · Feature Engineering**
+- Trained on **48,000+ listings** achieving **R² of 0.763**
+- Generated temporal & geospatial features: distance to landmarks, seasonal trends, neighborhood clusters
+- **31% performance improvement** over baseline
+
+### 🛒 [Visual & Language Recommender – Amazon Pantry](https://github.com/jpmartin22)
+**BERT · Vision Transformers · Multimodal AI**
+- Combined ViT and BERT with aligned visual-textual embeddings across **100K+ products**
+- **25% precision improvement** over single-modality baselines
+- FastAPI pipeline serving real-time predictions in **<200ms**
+
+### 🚗 Tiny Dreamer for Highway-v0
+**World Models · Reinforcement Learning · RSSM**
+- Compact Dreamer-style world model with encoder, RSSM latent dynamics, decoder, reward predictor
+- **86.4% lane-keeping success**, **13.6% off-road rate**, **0.0% off-road time** in evaluation
+- CAPS regularization achieving **0.939 smoothness score**
 
 ---
 
-## Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpmartin22&theme=tokyo-night&hide_border=false" alt="Activity Graph"/>
-</p>
+## 🏆 Achievements & Certifications
+
+### Awards
+- 🥇 **Winner** - DePaul Propel Hackathon 2025
+- 🥇 **Winner** - NEIU Eagle Hack Fest 2025
+- 🌟 **AI & Data Science Spotlight** - Spring Pod (Feb 2025)
+
+### Certifications
+- ✅ AWS Certified ML – SageMaker (Feb 2025)
+- ✅ AWS ML Foundations (Mar 2025)
+- ✅ Google Cloud Gen AI Professional (Jan 2025)
+- ✅ AI Agents Fundamentals – Hugging Face (Nov 2025)
+- ✅ Postman API Expert (Feb 2025)
+- ✅ AWS Intro to Cloud 101 (Mar 2025)
 
 ---
 
-## Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayaprakashyadavgorla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jayaprakash.gorla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 💡 Key Highlights
+
+```python
+highlights = {
+    "patents_analyzed": "50,000+",
+    "grants_supported": "2+ funded proposals",
+    "time_reduction": "85% (10+ hrs → 90 min)",
+    "documents_processed": "1,000+ legal documents/week",
+    "query_latency_improvement": "25%",
+    "model_accuracy": "R² = 0.763",
+    "lane_keeping_success": "86.4%",
+    "rag_accuracy": "88% answer correctness"
+}
+```
 
 ---
 
-<h3 align="center">Always learning, always building — AI for real-world impact</h3>
+## 📚 Current Focus
+
+- 🎓 Completing M.S. in Artificial Intelligence at DePaul University (Expected Jun 2026)
+- 🔬 Working as Data Scientist at DePaul University
+- 🤖 Exploring world models, autonomous systems, and advanced RL techniques
+- 🧠 Building production-grade RAG systems and multimodal AI applications
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: jayaprakashyadav@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/jaya-prakash-yadav-ai](https://linkedin.com/in/jaya-prakash-yadav-ai)
+- 🐙 GitHub: [github.com/jpmartin22](https://github.com/jpmartin22)
+- 📍 Location: Chicago, IL
+- 📱 Phone: 312-404-5135
+
+---
+
+<div align="center">
+
+### 🌟 "Building intelligent systems that learn, reason, and act autonomously" 🌟
+
+![Profile Views](https://komarev.com/ghpvc/?username=jpmartin22&color=blue&style=flat-square)
+
+</div>
