@@ -1,8 +1,8 @@
 <div align="center">
 
-# Jaya Prakash Yadav Gorla
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Jaya%20Prakash%20Yadav%20Gorla&fontSize=40&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20Robotics%20%7C%20ML%20Systems&descAlignY=58&descSize=18"/>
 
-Machine Learning Engineer | Robotics | Reinforcement Learning | ML Systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Robotics+and+Reinforcement+Learning;Building+reliable+ML+systems)](https://git.io/typing-svg)
 
 [LinkedIn](https://linkedin.com/in/jaya-prakash-yadav-ai) •
 [GitHub](https://github.com/jpmartin22) •
@@ -14,9 +14,7 @@ Machine Learning Engineer | Robotics | Reinforcement Learning | ML Systems
 
 ## About
 
-I am a graduate student in Artificial Intelligence at DePaul University, focused on machine learning, robotics, reinforcement learning, and large-scale ML systems. My work includes world models, retrieval-augmented systems, patent analytics, and applied machine learning for real-world decision support.
-
-Currently, I work on data-driven research and engineering projects involving large datasets, automation pipelines, and intelligent systems.
+I am a graduate student in Artificial Intelligence at DePaul University with interests in machine learning, robotics, reinforcement learning, and ML systems. My work includes world models, retrieval-augmented systems, patent analytics, and large-scale data pipelines.
 
 ---
 
@@ -24,7 +22,7 @@ Currently, I work on data-driven research and engineering projects involving lar
 
 **Languages:** Python, C++, SQL, JavaScript  
 **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
-**Systems & Tools:** FastAPI, Docker, Git, PostgreSQL, DuckDB  
+**Systems and Tools:** FastAPI, Docker, Git, PostgreSQL, DuckDB  
 **Areas of Interest:** Robotics, Reinforcement Learning, NLP, RAG, ML Systems, Computer Vision
 
 ---
@@ -45,21 +43,27 @@ Currently, I work on data-driven research and engineering projects involving lar
 
 </div>
 
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jpmartin22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true&title_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 ---
 
-## Selected Projects
+## Featured Projects
 
 ### Tiny Dreamer for Highway-v0
-World-model reinforcement learning project built with PyTorch and RSSM-based architecture. Achieved strong lane-keeping performance with stable driving behavior and smooth policy control.
+World-model reinforcement learning project built with PyTorch and an RSSM-based architecture. Focused on stable driving behavior, lane-keeping performance, and smoother policy control under constrained training settings.
 
 ### Agentic RAG for Document Question Answering
-Built a retrieval-augmented pipeline for document understanding and question answering using vector search, LLM orchestration, and structured retrieval.
+Built a retrieval-augmented pipeline for document understanding and question answering using vector search, LLM orchestration, and structured retrieval workflows.
 
 ### Airbnb Price Prediction
 Developed a machine learning pipeline for structured data prediction using feature engineering, boosting models, and hyperparameter optimization.
 
 ### Multimodal Recommender System
-Worked on recommendation systems combining visual and textual features for better ranking and personalization.
+Worked on recommendation systems combining visual and textual features for improved ranking and personalization.
 
 ---
 
@@ -80,6 +84,13 @@ Worked on recommendation systems combining visual and textual features for bette
 - Improved retrieval and answer quality through system optimization
 - Reduced latency and improved scalability for document querying workflows
 
+### Programmer Analyst | Cognizant
+**Oct 2022 – Jan 2024**
+
+- Worked on software development and business application support
+- Contributed to backend and data-driven engineering tasks
+- Improved reliability and efficiency in project workflows
+
 ---
 
 ## Education
@@ -96,3 +107,17 @@ GPA: 3.47/4.0
 **Email:** jayaprakashyadav@gmail.com  
 **LinkedIn:** [linkedin.com/in/jaya-prakash-yadav-ai](https://linkedin.com/in/jaya-prakash-yadav-ai)  
 **GitHub:** [github.com/jpmartin22](https://github.com/jpmartin22)
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/jpmartin22/jpmartin22/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer"/>
+
+</div>
