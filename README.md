@@ -39,7 +39,7 @@ I am a graduate student in Artificial Intelligence at DePaul University with int
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jpmartin22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jpmartin22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
