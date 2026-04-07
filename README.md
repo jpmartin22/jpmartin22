@@ -23,7 +23,7 @@ I am a graduate student in Artificial Intelligence at DePaul University with int
 **Languages:** Python, C++, SQL, JavaScript  
 **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
 **Systems and Tools:** FastAPI, Docker, Git, PostgreSQL, DuckDB  
-**Areas of Interest:** Robotics, Reinforcement Learning, NLP, RAG, ML Systems, Computer Vision
+**Areas of Interest:** Robotics, Reinforcement Learning, NLP, RAG, ML Systems, Computer Vision  
 
 ---
 
@@ -39,13 +39,7 @@ I am a graduate student in Artificial Intelligence at DePaul University with int
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpmartin22&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jpmartin22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true&title_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jpmartin22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true"/>
 
 </div>
 
@@ -54,42 +48,38 @@ I am a graduate student in Artificial Intelligence at DePaul University with int
 ## Featured Projects
 
 ### Tiny Dreamer for Highway-v0
-World-model reinforcement learning project built with PyTorch and an RSSM-based architecture. Focused on stable driving behavior, lane-keeping performance, and smoother policy control under constrained training settings.
+World-model reinforcement learning project built with PyTorch and an RSSM-based architecture. Focused on stable driving behavior, lane-keeping performance, and smooth policy control.
 
 ### Agentic RAG for Document Question Answering
-Built a retrieval-augmented pipeline for document understanding and question answering using vector search, LLM orchestration, and structured retrieval workflows.
+Built a retrieval-augmented pipeline for document understanding using vector search, LLM orchestration, and structured retrieval.
 
 ### Airbnb Price Prediction
-Developed a machine learning pipeline for structured data prediction using feature engineering, boosting models, and hyperparameter optimization.
+Developed a machine learning pipeline for structured data prediction using feature engineering, boosting models, and optimization.
 
 ### Multimodal Recommender System
-Worked on recommendation systems combining visual and textual features for improved ranking and personalization.
+Designed a recommendation system combining visual and textual features for improved ranking and personalization.
 
 ---
 
 ## Experience
 
-### Data Scientist | DePaul University
+### Data Scientist | DePaul University  
 **Jan 2026 – Present**
+- Led analytics on large-scale biopharma patent datasets  
+- Built scalable data pipelines and automation workflows  
+- Reduced processing time through optimization  
+- Supported research insights for funded projects  
 
-- Led analytics on large-scale biopharma patent datasets
-- Built data pipelines for JSONL processing and research automation
-- Reduced end-to-end processing time through workflow optimization
-- Supported research and grant-driven analysis with data insights
-
-### AI Research Intern | Aries View USA
+### AI Research Intern | Aries View USA  
 **Jun 2025 – Aug 2025**
+- Built an OCR-based RAG pipeline for legal documents  
+- Improved retrieval accuracy and system performance  
+- Reduced latency and improved scalability  
 
-- Built an OCR-based RAG pipeline for legal documents
-- Improved retrieval and answer quality through system optimization
-- Reduced latency and improved scalability for document querying workflows
-
-### Programmer Analyst | Cognizant
+### Programmer Analyst | Cognizant  
 **Oct 2022 – Jan 2024**
-
-- Worked on software development and business application support
-- Contributed to backend and data-driven engineering tasks
-- Improved reliability and efficiency in project workflows
+- Worked on backend systems and enterprise applications  
+- Improved system efficiency and reliability  
 
 ---
 
@@ -98,15 +88,15 @@ Worked on recommendation systems combining visual and textual features for impro
 **DePaul University**  
 Master of Science in Artificial Intelligence  
 Expected June 2026 | Chicago, Illinois  
-GPA: 3.47/4.0
+GPA: 3.47/4.0  
 
 ---
 
 ## Contact
 
 **Email:** jayaprakashyadav@gmail.com  
-**LinkedIn:** [linkedin.com/in/jaya-prakash-yadav-ai](https://linkedin.com/in/jaya-prakash-yadav-ai)  
-**GitHub:** [github.com/jpmartin22](https://github.com/jpmartin22)
+**LinkedIn:** https://linkedin.com/in/jaya-prakash-yadav-ai  
+**GitHub:** https://github.com/jpmartin22  
 
 ---
 
