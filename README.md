@@ -1,113 +1,39 @@
-<div align="center">
+# Jaya Prakash Yadav Gorla
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Jaya%20Prakash%20Yadav%20Gorla&fontSize=40&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20Robotics%20%7C%20ML%20Systems&descAlignY=58&descSize=18"/>
+**AI/ML engineer in Chicago, building LLM, RAG and multi-agent systems.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Robotics+and+Reinforcement+Learning;Building+reliable+ML+systems)](https://git.io/typing-svg)
+[Portfolio](https://jpmartin22.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/jaya-prakash-yadav-ai) · [Email](mailto:jayaprakash.gorla@gmail.com)
 
-[LinkedIn](https://linkedin.com/in/jaya-prakash-yadav-ai) •
-[GitHub](https://github.com/jpmartin22) •
-[Email](mailto:jayaprakashyadav@gmail.com)
+I'm an AI Data Scientist at Taisho Systems, where I build AI features for [MCP Tutor](https://www.mcptutor.com/), an AI learning platform delivered to AI assistants through the Model Context Protocol. I finished my M.S. in Artificial Intelligence at DePaul University in June 2026, and I have 3 years of industry and research experience across data science, RAG and multi-agent systems.
 
-</div>
+## Selected work
 
----
+- **[Multimodal AML detection](https://github.com/jpmartin22/Multimodal_Anti_Money_Laundering)**: graph, sequence and text models for anti-money-laundering detection, built by a team of four. I owned the GraphSAGE encoder, the late-fusion head and the SHAP explanations (0.93 AUC-PR for the GraphSAGE branch). The team shipped it with MLflow, DVC, Docker and a Cloud Run CI/CD pipeline. The text branch uses synthetic payment memos, so the fused score is not real-world accuracy.
+- **[Tiny Dreamer](https://github.com/jpmartin22/TinyDreamer)**: a Dreamer-style world-model agent (RSSM and actor-critic) written from scratch in PyTorch for highway-env. 86.4% lane-keeping at the best checkpoint (10 episodes).
+- **[Agentic RAG for cleantech Q&A](https://github.com/jpmartin22/Multi-Tool-Agentic-RAG)**: a tool-using LangChain agent over 20,000+ cleantech documents in ChromaDB, with an answer-review guardrail. An LLM judge rated 96% of answers 4 or 5 out of 5 (50 questions), and ROUGE-L F1 rose 21% over the baseline agent (23 questions).
+- **MediQuery**: multi-agent medical question answering on LangGraph and Amazon Bedrock, with a circuit breaker that returns an insufficient-evidence reply instead of guessing. Co-authored with Kunal Tamhane; manuscript in preparation.
 
-## About
-
-I am a graduate student in Artificial Intelligence at DePaul University with interests in machine learning, robotics, reinforcement learning, and ML systems. My work includes world models, retrieval-augmented systems, patent analytics, and large-scale data pipelines.
-
----
-
-## Technical Skills
-
-**Languages:** Python, C++, SQL, JavaScript  
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
-**Systems and Tools:** FastAPI, Docker, Git, PostgreSQL, DuckDB  
-**Areas of Interest:** Robotics, Reinforcement Learning, NLP, RAG, ML Systems, Computer Vision  
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jpmartin22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmartin22&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jpmartin22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-## Featured Projects
-
-### Tiny Dreamer for Highway-v0
-World-model reinforcement learning project built with PyTorch and an RSSM-based architecture. Focused on stable driving behavior, lane-keeping performance, and smooth policy control.
-
-### Agentic RAG for Document Question Answering
-Built a retrieval-augmented pipeline for document understanding using vector search, LLM orchestration, and structured retrieval.
-
-### Airbnb Price Prediction
-Developed a machine learning pipeline for structured data prediction using feature engineering, boosting models, and optimization.
-
-### Multimodal Recommender System
-Designed a recommendation system combining visual and textual features for improved ranking and personalization.
-
----
+Architecture diagrams and evaluation details for each project are on the [portfolio](https://jpmartin22.github.io/Portfolio/#projects).
 
 ## Experience
 
-### Data Scientist | DePaul University  
-**Jan 2026 – Present**
-- Led analytics on large-scale biopharma patent datasets  
-- Built scalable data pipelines and automation workflows  
-- Reduced processing time through optimization  
-- Supported research insights for funded projects  
+- **Taisho Systems**, AI Data Scientist (Sep 2026 – present): AI and data science features for MCP Tutor, and client AI projects.
+- **DePaul University**, Data Scientist (Jun 2025 – Sep 2026): automated ingestion of 100,000+ JSONL records (85% less manual processing) and built NetworkX models over 50,000+ biopharma patents; the findings supported 2 funded grant proposals.
+- **AriesView**, AI Research Intern (Jun – Aug 2025): with legal experts and 2 engineers, built and deployed an OCR-based RAG system (LangChain, FAISS, PaddleOCR) that scaled to 10,000+ daily queries.
+- **Cognizant**, Junior Data Scientist (Oct 2022 – Jan 2024): feature pipelines on 200+ SQL queries (35% higher model accuracy) and release coordination with zero failed production deployments.
 
-### AI Research Intern | Aries View USA  
-**Jun 2025 – Aug 2025**
-- Built an OCR-based RAG pipeline for legal documents  
-- Improved retrieval accuracy and system performance  
-- Reduced latency and improved scalability  
+## Stack
 
-### Programmer Analyst | Cognizant  
-**Oct 2022 – Jan 2024**
-- Worked on backend systems and enterprise applications  
-- Improved system efficiency and reliability  
-
----
+- **Languages:** Python, SQL, C++, Bash
+- **GenAI and LLMs:** RAG, multi-agent systems, LangChain, LangGraph, LlamaIndex, Hugging Face Transformers, LoRA/QLoRA fine-tuning, LLM evaluation, FAISS, ChromaDB, Qdrant
+- **Machine learning:** PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, GNNs (GraphSAGE), reinforcement learning
+- **MLOps and cloud:** Docker, MLflow, DVC, GitHub Actions, FastAPI, PostgreSQL, AWS (Bedrock, SageMaker), GCP (Vertex AI, Cloud Run)
 
 ## Education
 
-**DePaul University**  
-Master of Science in Artificial Intelligence  
-Expected June 2026 | Chicago, Illinois  
-GPA: 3.47/4.0  
+- **DePaul University**: M.S., Artificial Intelligence (2024–2026), Chicago
+- **Siddharth Institute of Engineering & Technology**: B.Tech, Electrical, Electronics and Communications Engineering (2018–2022)
 
----
+## Get in touch
 
-## Contact
-
-**Email:** jayaprakashyadav@gmail.com  
-**LinkedIn:** https://linkedin.com/in/jaya-prakash-yadav-ai  
-**GitHub:** https://github.com/jpmartin22  
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/jpmartin22/jpmartin22/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer"/>
-
-</div>
+I'm happy to talk about LLM systems, RAG and applied ML. Email is the fastest way to reach me: [jayaprakash.gorla@gmail.com](mailto:jayaprakash.gorla@gmail.com).
