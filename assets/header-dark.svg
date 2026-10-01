@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 240" width="800" height="240" role="img">
+<title>Jaya Prakash Yadav Gorla</title>
+<desc>Jaya Prakash Yadav Gorla. AI/ML engineer in Chicago. LLM, RAG and multi-agent systems. AI Data Scientist at Taisho Systems.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#17327A"/></linearGradient>
+  <clipPath id="clip"><rect width="800" height="240" rx="14"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="799" height="239" rx="13.5" fill="url(#bg)" stroke="#26324A"/>
+<text x="40" y="92" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" fill="#E8ECF3" textLength="640" lengthAdjust="spacingAndGlyphs">Jaya Prakash Yadav Gorla</text>
+<path id="p1" d="M40,140 h0" fill="none" stroke="none"><animate id="a1" attributeName="d" begin="0.5s;a3.end+0.4s" dur="5.086s" calcMode="linear" keyTimes="0;0.3511;0.8230;1" values="M40,140 h0;M40,140 h410;M40,140 h410;M40,140 h0"/></path>
+<text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#8AB4FF"><textPath xlink:href="#p1">AI/ML engineer in Chicago</textPath></text>
+<path id="p2" d="M40,140 h0" fill="none" stroke="none"><animate id="a2" attributeName="d" begin="a1.end+0.4s" dur="5.586s" calcMode="linear" keyTimes="0;0.4092;0.8389;1" values="M40,140 h0;M40,140 h524;M40,140 h524;M40,140 h0"/></path>
+<text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#8AB4FF"><textPath xlink:href="#p2">LLM, RAG and multi-agent systems</textPath></text>
+<path id="p3" d="M40,140 h0" fill="none" stroke="none"><animate id="a3" attributeName="d" begin="a2.end+0.4s" dur="5.800s" calcMode="linear" keyTimes="0;0.4310;0.8448;1" values="M40,140 h0;M40,140 h573;M40,140 h573;M40,140 h0"/></path>
+<text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#8AB4FF"><textPath xlink:href="#p3">AI Data Scientist at Taisho Systems</textPath></text>
+<g clip-path="url(#clip)">
+  <path d="M0,196 Q100,182 200,196 T400,196 T600,196 T800,196 T1000,196 T1200,196 T1400,196 T1600,196 V240 H0 Z" fill="#1D4ED8" fill-opacity="0.55"><animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="9s" repeatCount="indefinite"/></path>
+  <path d="M0,205 Q100,194 200,205 T400,205 T600,205 T800,205 T1000,205 T1200,205 T1400,205 T1600,205 V240 H0 Z" fill="#8AB4FF" fill-opacity="0.3"><animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="14s" repeatCount="indefinite"/></path>
+</g>
+</svg>

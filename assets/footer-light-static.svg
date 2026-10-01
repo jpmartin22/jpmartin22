@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 80" width="800" height="80" role="img">
+<title>Decorative wave</title>
+<desc>A decorative wave.</desc>
+<defs><clipPath id="clip"><rect width="800" height="80" rx="10"/></clipPath></defs>
+<g clip-path="url(#clip)">
+  <path d="M0,34 Q100,22 200,34 T400,34 T600,34 T800,34 T1000,34 T1200,34 T1400,34 T1600,34 V80 H0 Z" fill="#1D4ED8" fill-opacity="0.22" transform="translate(0 0)"/>
+  <path d="M0,43 Q100,34 200,43 T400,43 T600,43 T800,43 T1000,43 T1200,43 T1400,43 T1600,43 V80 H0 Z" fill="#1E3A8A" fill-opacity="0.14" transform="translate(-400 0)"/>
+</g>
+</svg>

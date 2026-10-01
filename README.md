@@ -1,4 +1,9 @@
-# Jaya Prakash Yadav Gorla
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/header-dark-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/header-light-static.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/header-light.svg" alt="Jaya Prakash Yadav Gorla. AI/ML engineer in Chicago. LLM, RAG and multi-agent systems. AI Data Scientist at Taisho Systems." width="100%">
+</picture>
 
 **AI/ML engineer in Chicago, building LLM, RAG and multi-agent systems.**
 
@@ -37,3 +42,15 @@ Architecture diagrams and evaluation details for each project are on the [portfo
 ## Get in touch
 
 I'm happy to talk about LLM systems, RAG and applied ML. Email is the fastest way to reach me: [jayaprakash.gorla@gmail.com](mailto:jayaprakash.gorla@gmail.com).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmartin22/jpmartin22/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/jpmartin22/jpmartin22/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution graph" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/footer-dark-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/footer-light-static.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/footer-dark.svg">
+  <img src="https://raw.githubusercontent.com/jpmartin22/jpmartin22/main/assets/footer-light.svg" alt="" width="100%">
+</picture>

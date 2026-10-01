@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 240" width="800" height="240" role="img">
+<title>Jaya Prakash Yadav Gorla</title>
+<desc>Jaya Prakash Yadav Gorla. AI/ML engineer in Chicago. LLM, RAG and multi-agent systems. AI Data Scientist at Taisho Systems.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#17327A"/></linearGradient>
+  <clipPath id="clip"><rect width="800" height="240" rx="14"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="799" height="239" rx="13.5" fill="url(#bg)" stroke="#26324A"/>
+<text x="40" y="82" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" fill="#E8ECF3" textLength="640" lengthAdjust="spacingAndGlyphs">Jaya Prakash Yadav Gorla</text>
+<text x="40" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#8AB4FF">AI/ML engineer in Chicago</text>
+<text x="40" y="154" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#8AB4FF">LLM, RAG and multi-agent systems</text>
+<text x="40" y="184" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#8AB4FF">AI Data Scientist at Taisho Systems</text>
+<g clip-path="url(#clip)">
+  <path d="M0,212 Q100,203 200,212 T400,212 T600,212 T800,212 T1000,212 T1200,212 T1400,212 T1600,212 V240 H0 Z" fill="#1D4ED8" fill-opacity="0.55" transform="translate(0 0)"/>
+  <path d="M0,221 Q100,214 200,221 T400,221 T600,221 T800,221 T1000,221 T1200,221 T1400,221 T1600,221 V240 H0 Z" fill="#8AB4FF" fill-opacity="0.3" transform="translate(-400 0)"/>
+</g>
+</svg>
